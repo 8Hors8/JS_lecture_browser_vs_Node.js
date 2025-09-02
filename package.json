@@ -1,0 +1,20 @@
+{
+  "name": "@8hors8/js_lecture_browser_vs_node",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/8Hors8/JS_lecture_browser_vs_Node.js#readme",
+  "bugs": {
+    "url": "https://github.com/8Hors8/JS_lecture_browser_vs_Node.js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8Hors8/JS_lecture_browser_vs_Node.js.git"
+  },
+  "license": "ISC",
+  "author": "Hors",
+  "type": "commonjs",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
